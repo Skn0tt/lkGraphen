@@ -135,3 +135,11 @@ digraph {
 ```
 
 In diesem Graph sieht man zum Beispiel die Handelsvolumina zwischen den Deutschland, Belgien, Luxemburg und den Niederlanden.
+
+## TL;DR
+
+Graphen bestehen aus *Knoten* und *Kanten*, die jeweils zwei Knoten mit einander verbinden.
+Enthalten die Kanten Richtungsinformationen, so spricht man von einem *gerichteten* Graphen.
+Speicher die Kanten Werte, so spricht man von einem *gewichteten* Graphen.
+
+Mit Graphen kann man einfach komplexe Beziehungen, zum Beispiel ein soziales Netzwerk oder eine Karte, darstellen.
