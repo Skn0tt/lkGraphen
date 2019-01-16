@@ -81,6 +81,13 @@ public class Gui extends JFrame {
 
     this.result = GraphParser.parse(verticesInput, edgesInput);
 
+    boolean hasEulerTour = EulerTourClassifier.hasEulerTour(this.result);
+    System.out.println(
+      hasEulerTour
+        ? "There is an euler tour in the graph"
+        : "There is no euler tour in the graph"
+    );
+
     bGraphzeichnen.setEnabled(true);
   }
     
