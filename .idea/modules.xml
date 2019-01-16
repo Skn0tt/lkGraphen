@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GraphZeichner/GraphZeichner.iml" filepath="$PROJECT_DIR$/GraphZeichner/GraphZeichner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lkGraphen.iml" filepath="$PROJECT_DIR$/lkGraphen.iml" />
+    </modules>
+  </component>
+</project>
