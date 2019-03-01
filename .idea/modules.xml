@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GraphZeichner/GraphZeichner.iml" filepath="$PROJECT_DIR$/GraphZeichner/GraphZeichner.iml" />
       <module fileurl="file://$PROJECT_DIR$/GraphenSuche/GraphenSuche.iml" filepath="$PROJECT_DIR$/GraphenSuche/GraphenSuche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphenSuche/GraphenSuche.iml" filepath="$PROJECT_DIR$/GraphenSuche/GraphenSuche.iml" />
       <module fileurl="file://$PROJECT_DIR$/lkGraphen.iml" filepath="$PROJECT_DIR$/lkGraphen.iml" />
     </modules>
   </component>

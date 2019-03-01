@@ -2,6 +2,8 @@ public class BreadthTraverser implements GraphTraverser {
 
     @Override
     public List<String> traverse(Graph g, Vertex start) {
+        GraphCleaner.clearMarks(g);
+
         List<String> result = new List<>();
 
         start.setMark(true);

@@ -1,5 +1,3 @@
-import java.io.Serializable;
-
 public class Test {
 
     public static void main(String... args) {
@@ -26,24 +24,6 @@ public class Test {
         for (list.toFirst(); list.hasAccess(); list.next()) {
             System.out.println(list.getContent());
         }
-    }
-
-    private static Graph getGraph1() {
-        Graph g = new Graph();
-
-        Vertex a = new Vertex("A");
-        Vertex b = new Vertex("B");
-        Vertex c = new Vertex("C");
-
-        g.addVertex(a);
-        g.addVertex(b);
-        g.addVertex(c);
-
-        g.addEdge(new Edge(a, b, 5));
-        g.addEdge(new Edge(a, c, 10));
-        g.addEdge(new Edge(c, b, 3));
-
-        return g;
     }
 
 }
