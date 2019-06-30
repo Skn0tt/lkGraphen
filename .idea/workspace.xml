@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18547847-6f2c-4741-a0a1-6ecd77ac6fca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GraphenSuche/GraphenSuche.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphenSuche/src/GraphCleaner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphenSuche/src/BreadthTraverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphenSuche/src/BreadthTraverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphenSuche/src/DepthTraverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphenSuche/src/DepthTraverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphenSuche/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphenSuche/src/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="18547847-6f2c-4741-a0a1-6ecd77ac6fca" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,86 +17,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-              <folding>
-                <element signature="e#214#246#1" expanded="true" />
-                <element signature="e#319#821#0" expanded="true" />
-                <element signature="e#290#301#0" expanded="true" />
-                <element signature="e#319#821#0" expanded="true" />
-                <element signature="e#317#338#1" expanded="true" />
-                <element signature="e#474#811#0" expanded="true" />
-                <element signature="e#474#811#0" expanded="true" />
-                <element signature="e#542#567#0" expanded="true" />
-                <element signature="e#750#777#0" expanded="true" />
-                <element signature="e#713#722#0" expanded="true" />
-                <element signature="e#750#777#0" expanded="true" />
-                <element signature="e#750#777#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GraphenSuche/src/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#673#749#1" expanded="true" />
-                <element signature="e#847#961#0" expanded="true" />
-                <element signature="e#847#961#0" expanded="true" />
-                <element signature="e#932#949#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DepthTraverser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GraphenSuche/src/DepthTraverser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="35" />
-              <folding>
-                <element signature="e#226#245#0" expanded="true" />
-                <element signature="e#226#245#0" expanded="true" />
-                <element signature="e#211#243#1" expanded="true" />
-                <element signature="e#321#814#0" expanded="true" />
-                <element signature="e#284#295#0" expanded="true" />
-                <element signature="e#321#814#0" expanded="true" />
-                <element signature="e#311#330#1" expanded="true" />
-                <element signature="e#365#412#1" expanded="true" />
-                <element signature="e#470#804#0" expanded="true" />
-                <element signature="e#470#804#0" expanded="true" />
-                <element signature="e#519#556#1" expanded="true" />
-                <element signature="e#530#555#0" expanded="true" />
-                <element signature="e#619#790#0" expanded="true" />
-                <element signature="e#579#591#0" expanded="true" />
-                <element signature="e#619#790#0" expanded="true" />
-                <element signature="e#660#675#0" expanded="true" />
-                <element signature="e#660#675#0" expanded="true" />
-                <element signature="e#743#770#0" expanded="true" />
-                <element signature="e#698#707#0" expanded="true" />
-                <element signature="e#743#770#0" expanded="true" />
-                <element signature="e#710#719#0" expanded="true" />
-                <element signature="e#743#770#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphTraverser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphTraverser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -125,10 +38,10 @@
       <list>
         <option value="$PROJECT_DIR$/GraphZeichner/src/EulerTourClassifier.java" />
         <option value="$PROJECT_DIR$/GraphZeichner/src/Gui.java" />
-        <option value="$PROJECT_DIR$/GraphenSuche/src/Test.java" />
         <option value="$PROJECT_DIR$/GraphenSuche/src/GraphCleaner.java" />
         <option value="$PROJECT_DIR$/GraphenSuche/src/DepthTraverser.java" />
         <option value="$PROJECT_DIR$/GraphenSuche/src/BreadthTraverser.java" />
+        <option value="$PROJECT_DIR$/GraphenSuche/src/Test.java" />
       </list>
     </option>
   </component>
@@ -267,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547674656153</updated>
       <workItem from="1547674657449" duration="973000" />
-      <workItem from="1551431995975" duration="442000" />
+      <workItem from="1551431995975" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="Implement EulerTourClassifier">
       <created>1547675596646</created>
@@ -280,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1415000" />
+    <option name="totallyTimeSpent" value="1802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -296,14 +209,14 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299389" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299389" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299389" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969605" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49796334" visible="true" weight="0.25239617" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.50303954" side_tool="true" visible="true" weight="0.25239617" />
+      <window_info id="Structure" order="1" sideWeight="0.50203663" side_tool="true" visible="true" weight="0.25239617" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -429,20 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphTraverser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphCleaner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -470,12 +369,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphenSuche/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state>
           <folding>
             <element signature="e#673#749#1" expanded="true" />
-            <element signature="e#847#961#0" expanded="true" />
-            <element signature="e#847#961#0" expanded="true" />
+            <element signature="e#817#931#0" expanded="true" />
+            <element signature="e#817#931#0" expanded="true" />
             <element signature="e#932#949#0" expanded="true" />
           </folding>
         </state>
@@ -486,29 +384,43 @@
         <state relative-caret-position="45">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="35" />
           <folding>
-            <element signature="e#226#245#0" expanded="true" />
-            <element signature="e#226#245#0" expanded="true" />
+            <element signature="e#218#237#0" expanded="true" />
+            <element signature="e#218#237#0" expanded="true" />
             <element signature="e#211#243#1" expanded="true" />
-            <element signature="e#321#814#0" expanded="true" />
+            <element signature="e#313#806#0" expanded="true" />
             <element signature="e#284#295#0" expanded="true" />
-            <element signature="e#321#814#0" expanded="true" />
+            <element signature="e#313#806#0" expanded="true" />
             <element signature="e#311#330#1" expanded="true" />
             <element signature="e#365#412#1" expanded="true" />
-            <element signature="e#470#804#0" expanded="true" />
-            <element signature="e#470#804#0" expanded="true" />
+            <element signature="e#462#796#0" expanded="true" />
+            <element signature="e#462#796#0" expanded="true" />
             <element signature="e#519#556#1" expanded="true" />
             <element signature="e#530#555#0" expanded="true" />
-            <element signature="e#619#790#0" expanded="true" />
+            <element signature="e#611#782#0" expanded="true" />
             <element signature="e#579#591#0" expanded="true" />
-            <element signature="e#619#790#0" expanded="true" />
-            <element signature="e#660#675#0" expanded="true" />
-            <element signature="e#660#675#0" expanded="true" />
-            <element signature="e#743#770#0" expanded="true" />
+            <element signature="e#611#782#0" expanded="true" />
+            <element signature="e#652#667#0" expanded="true" />
+            <element signature="e#652#667#0" expanded="true" />
+            <element signature="e#735#762#0" expanded="true" />
             <element signature="e#698#707#0" expanded="true" />
-            <element signature="e#743#770#0" expanded="true" />
+            <element signature="e#735#762#0" expanded="true" />
             <element signature="e#710#719#0" expanded="true" />
-            <element signature="e#743#770#0" expanded="true" />
+            <element signature="e#735#762#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphenSuche/src/GraphTraverser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -516,20 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#214#246#1" expanded="true" />
-            <element signature="e#319#821#0" expanded="true" />
-            <element signature="e#290#301#0" expanded="true" />
-            <element signature="e#319#821#0" expanded="true" />
-            <element signature="e#317#338#1" expanded="true" />
-            <element signature="e#474#811#0" expanded="true" />
-            <element signature="e#474#811#0" expanded="true" />
-            <element signature="e#542#567#0" expanded="true" />
-            <element signature="e#750#777#0" expanded="true" />
-            <element signature="e#713#722#0" expanded="true" />
-            <element signature="e#750#777#0" expanded="true" />
-            <element signature="e#750#777#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
